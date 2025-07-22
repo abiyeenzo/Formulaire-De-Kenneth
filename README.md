@@ -66,5 +66,5 @@ Ce projet est libre d’utilisation, modifiable et partageable sous licence MIT.
 
 Pour toute question ou contribution :
 
-* GitHub : [AbiyeEnzo](https://github.com/AbiyeEnzo)
+* GitHub : [abiyeenzo](https://github.com/abiyeenzo)
 * Email : abiyeenzo@gmail.com
