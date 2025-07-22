@@ -1,6 +1,4 @@
-Bien sûr ! Voici la version mise à jour du README avec la mention de ta contribution :
 
----
 
 # Formulaire Login/Logout Futuriste - Kenneth
 
@@ -82,8 +80,6 @@ Aucune garantie. Utiliser à vos risques et périls.
 
 ## Contact
 
-Pour toute question, tu peux me demander via ce chat ou mail.
+Pour toute question, tu peux me demander via PR.
 
----
 
-Si tu souhaites, je peux aussi te préparer un README avec intégration backend, dis-moi !
